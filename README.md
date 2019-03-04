@@ -1,5 +1,4 @@
 # tf_sklearn_facialrecog
-Facial recognition using Eigenfaces technique 
 
 Evaluation of Eigenfaces System
 Luvai Hassanali   
