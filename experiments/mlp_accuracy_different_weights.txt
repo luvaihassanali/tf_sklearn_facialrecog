@@ -1,0 +1,53 @@
+350 x 50
+Epoch: 1 - Accuracy: 0.45962732919254656
+Epoch: 11 - Accuracy: 0.7484472049689441
+Epoch: 21 - Accuracy: 0.7950310559006211
+Epoch: 31 - Accuracy: 0.7577639751552795
+Epoch: 41 - Accuracy: 0.7981366459627329
+Epoch: 51 - Accuracy: 0.7329192546583851
+Epoch: 61 - Accuracy: 0.782608695652174
+Epoch: 71 - Accuracy: 0.7919254658385093
+Epoch: 81 - Accuracy: 0.7857142857142857
+Epoch: 91 - Accuracy: 0.8229813664596274
+Mean accuracy: 0.7485714285714287
+Time elapsed: 53.796875
+
+100 x 25
+Epoch: 1 - Accuracy: 0.453416149068323
+Epoch: 11 - Accuracy: 0.7049689440993789
+Epoch: 21 - Accuracy: 0.7484472049689441
+Epoch: 31 - Accuracy: 0.7546583850931677
+Epoch: 41 - Accuracy: 0.7422360248447205
+Epoch: 51 - Accuracy: 0.7422360248447205
+Epoch: 61 - Accuracy: 0.7080745341614907
+Epoch: 71 - Accuracy: 0.7670807453416149
+Epoch: 81 - Accuracy: 0.7639751552795031
+Epoch: 91 - Accuracy: 0.7608695652173914
+Mean accuracy: 0.7412111801242236
+
+500  x 100
+Epoch: 1 - Accuracy: 0.5186335403726708
+Epoch: 11 - Accuracy: 0.7515527950310559
+Epoch: 21 - Accuracy: 0.7546583850931677
+Epoch: 31 - Accuracy: 0.7919254658385093
+Epoch: 41 - Accuracy: 0.7391304347826086
+Epoch: 51 - Accuracy: 0.7795031055900621
+Epoch: 61 - Accuracy: 0.7639751552795031
+Epoch: 71 - Accuracy: 0.7639751552795031
+Epoch: 81 - Accuracy: 0.8074534161490683
+Epoch: 91 - Accuracy: 0.7919254658385093
+Mean accuracy: 0.7642236024844722
+
+1000 x 200
+Epoch: 1 - Accuracy: 0.4503105590062112
+Epoch: 11 - Accuracy: 0.7329192546583851
+Epoch: 21 - Accuracy: 0.7608695652173914
+Epoch: 31 - Accuracy: 0.7701863354037267
+Epoch: 41 - Accuracy: 0.7577639751552795
+Epoch: 51 - Accuracy: 0.8167701863354038
+Epoch: 61 - Accuracy: 0.7919254658385093
+Epoch: 71 - Accuracy: 0.8198757763975155
+Epoch: 81 - Accuracy: 0.7950310559006211
+Epoch: 91 - Accuracy: 0.7950310559006211
+Mean accuracy: 0.750745341614907
+Time elapsed: 152.15625

@@ -1,0 +1,55 @@
+Tested with 15 epochs
+
+5x5
+Accuracy at epoch: 1 = 0.21875
+Accuracy at epoch: 2 = 0.28125
+Accuracy at epoch: 3 = 0.296875
+Accuracy at epoch: 4 = 0.4375
+Accuracy at epoch: 5 = 0.46875
+Accuracy at epoch: 6 = 0.578125
+Accuracy at epoch: 7 = 0.6875
+Accuracy at epoch: 8 = 0.625
+Accuracy at epoch: 9 = 0.796875
+Accuracy at epoch: 10 = 0.8125
+Accuracy at epoch: 11 = 0.75
+Accuracy at epoch: 12 = 0.796875
+Accuracy at epoch: 13 = 0.8125
+Accuracy at epoch: 14 = 0.71875
+Accuracy at epoch: 15 = 0.796875
+Overall accuracy: 0.6052083333333333
+
+3x3
+Accuracy at epoch: 1 = 0.203125
+Accuracy at epoch: 2 = 0.3125
+Accuracy at epoch: 3 = 0.5
+Accuracy at epoch: 4 = 0.671875
+Accuracy at epoch: 5 = 0.625
+Accuracy at epoch: 6 = 0.640625
+Accuracy at epoch: 7 = 0.640625
+Accuracy at epoch: 8 = 0.6875
+Accuracy at epoch: 9 = 0.734375
+Accuracy at epoch: 10 = 0.703125
+Accuracy at epoch: 11 = 0.765625
+Accuracy at epoch: 12 = 0.75
+Accuracy at epoch: 13 = 0.84375
+Accuracy at epoch: 14 = 0.765625
+Accuracy at epoch: 15 = 0.796875
+Overall accuracy: 0.6427083333333333
+
+2x2
+Accuracy at epoch: 1 = 0.265625
+Accuracy at epoch: 2 = 0.28125
+Accuracy at epoch: 3 = 0.5
+Accuracy at epoch: 4 = 0.65625
+Accuracy at epoch: 5 = 0.515625
+Accuracy at epoch: 6 = 0.65625
+Accuracy at epoch: 7 = 0.671875
+Accuracy at epoch: 8 = 0.703125
+Accuracy at epoch: 9 = 0.65625
+Accuracy at epoch: 10 = 0.859375
+Accuracy at epoch: 11 = 0.765625
+Accuracy at epoch: 12 = 0.796875
+Accuracy at epoch: 13 = 0.65625
+Accuracy at epoch: 14 = 0.703125
+Accuracy at epoch: 15 = 0.6875
+Overall accuracy: 0.625
